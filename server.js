@@ -20,4 +20,4 @@ app.post('/shortUrls', (req, res) => {
   
 })
 
-app.listen(process.env.PORT || 5000);
+app.listen(process.env.PORT || 3000);
